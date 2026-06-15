@@ -107,7 +107,7 @@ Business Insights & Reporting
 Customer Churn Dashboard
 Add Dashboard Screenshot Here
 
-![Dashboard Preview](images/customer-churn-dashboard.png)
+![Dashboard Preview](images/Screenshot155443.png)
 
 ## Repository Structure
 ```
