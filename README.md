@@ -105,10 +105,11 @@ Business Insights & Reporting
 ```
 ### Dashboard Preview
 Customer Churn Dashboard
-Add Dashboard Screenshot Here
+<h2 align="center">📸 Dashboard Preview</h2>
 
-![Dashboard Preview](images/Screenshot155443.png)
-
+<p align="center">
+  <img src="Screenshots/Screenshot155443.png" alt="Customer Churn Dashboard" width="800">
+</p>
 ## Repository Structure
 ```
 Customer-Churn-Analysis-Dashboard/
