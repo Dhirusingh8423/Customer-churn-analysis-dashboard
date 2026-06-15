@@ -1,9 +1,12 @@
 # Customer Churn Analysis Dashboard
 ## Project Overview
 ```
-Customer retention is one of the most critical factors for business growth. This Customer Churn Analysis Dashboard was developed to identify customer attrition patterns, understand the factors influencing churn, and provide actionable insights for improving customer retention strategies.
+Customer retention is one of the most critical factors for business growth.
+This Customer Churn Analysis Dashboard was developed to identify customer attrition patterns,
+understand the factors influencing churn, and provide actionable insights for improving customer retention strategies.
 
-Using data visualization and analytics, the dashboard helps stakeholders monitor churn trends, analyze customer demographics, evaluate service usage behavior, and identify high-risk customer segments.
+Using data visualization and analytics, the dashboard helps stakeholders monitor churn trends, analyze customer demographics,
+evaluate service usage behavior, and identify high-risk customer segments.
 ```
 ## Objectives
 ```
@@ -12,7 +15,8 @@ Identify key factors contributing to customer attrition.
 Segment customers based on demographics and service usage.
 Monitor retention and churn rates through interactive visualizations.
 Support data-driven decision-making for customer retention initiatives.
-📊 Dashboard Features
+
+Dashboard Features
 🔹 Churn Overview
 Total Customers
 Active Customers
@@ -45,7 +49,7 @@ Power BI	Dashboard Development & Visualization
 SQL	Data Extraction & Analysis
 Excel	Data Cleaning & Preprocessing
 DAX	KPI & Measure Creation
-📂 Dataset Information
+Dataset Information
 ```
 ### The dataset contains customer-related information including:
 ```
@@ -59,7 +63,7 @@ Monthly Charges
 Total Charges
 Customer Status
 Churn Label
-📈 Key Insights Generated
+Key Insights Generated
 
 ✔ Customers with month-to-month contracts showed higher churn rates.
 
@@ -108,6 +112,7 @@ Customer Churn Dashboard
 <p align="center">
   <img src="Screenshot155443.png" width="800">
 </p>
+
 ## Repository Structure
 ```
 Customer-Churn-Analysis-Dashboard/
@@ -140,7 +145,7 @@ Data-Driven Decision Making
 ```
 ## Author
 ```
-Ujjawal Jaiswal
+Dheeraj Singh
 Data Analyst | Power BI Developer | SQL Enthusiast
 
 📧 Email: dhirusingh9091@gmail.com
